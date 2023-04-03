@@ -7,7 +7,8 @@ function HomePage  () {
   return (
     <Layout>
       
-      <Link href="/components/domain/body/Category/Category">Category</Link>
+      {/* <Link href="/components/domain/body/Category/Category">Category</Link> */}
+      <CategoryPage/>
     </Layout>
   )
 }

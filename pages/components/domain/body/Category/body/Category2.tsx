@@ -125,6 +125,7 @@ const Category2 = () => {
                 <h1>color2</h1>
                 <h1>color3</h1>
                 <h1>color4</h1>
+                
               </div>
               <div className=" flex justify-end mt-4 ml-2 mb-4">
                 <h1 className=" ml-3 font-thin">{item.discount}</h1>
